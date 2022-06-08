@@ -35,7 +35,7 @@ User Interface & deployment :  Created an UI that shows the output.
    2. Pandas
    3. Numpy
    4. Sklearn(CountVectorizer, cosine_similarity)
-   5. Steamlit
+   5. Streamlit
 
 ## Installation
 Click here to install [python](https://www.python.org/downloads/). To install the required packages and libraries, run this pip command in the project directory after cloning the repository:
