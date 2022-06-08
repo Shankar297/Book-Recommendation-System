@@ -18,7 +18,7 @@ Book recommendation engine that recommend four books based on user movie selecte
 ## Problem Statement
 Book recommendation system is one of the top research areas, currently. Due to the impact of high internet speeds, multimedia has become one of the best entertainments. 
 
-Most of the people read book online. bulid a Book recommendation engine that recommend four books based on user movie selected book.
+Most of the people read book online. bulid a Book recommendation engine that recommend four books based on user selected book.
 
 ## Approach
 Data Exploration : Exploring dataset using pandas, numpy.
